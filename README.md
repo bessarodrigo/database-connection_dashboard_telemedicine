@@ -23,16 +23,18 @@ Projeto que tem como objetivo **automatizar o processo de ingestão e visualiza�
 - Conexão direta do BigQuery com o Looker Studio
 
 ## Estrutura do Projeto
-📁 projeto_bi/
+```text
+📁 projeto/
 ├── 📁 notebooks/
-│ └── integracao_bigquery.ipynb
+│   └── bq_connection_nomedatabela.ipynb
 ├── 📁 credenciais/
-│ └── bq-chave.json
+│   └── bq-chave.json
 ├── 📁 dados/
-│ └── dados.xlsx
+│   └── relatorio_consolidado.xlsx
 ├── .env
 ├── requirements.txt
 └── README.md
+```
 
 ## Tecnologias Utilizadas
 | Ferramenta                  | Papel                              |
