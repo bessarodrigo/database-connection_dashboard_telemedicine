@@ -41,10 +41,9 @@ Projeto que tem como objetivo **automatizar o processo de ingestão e visualiza�
 | --------------------------- | ---------------------------------- |
 | **Python (pandas, dotenv)** | ETL, tratamento e envio dos dados  |
 | **PostgreSQL**              | Banco relacional local             |
-| **Google BigQuery**         | Armazenamento analítico e consulta |
+| **Google BigQuery**         | Armazenamento e consulta           |
 | **Looker Studio**           | Painéis e visualização             |
-| **Jupyter Notebook**        | Desenvolvimento interativo         |
-| **GitHub**                  | Controle de versão e documentação  |
+| **Jupyter Notebook**        | Desenvolvimento                    |
 
 ## Exemplos
 ---
