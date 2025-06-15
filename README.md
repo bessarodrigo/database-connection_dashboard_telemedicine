@@ -45,10 +45,7 @@ Projeto que tem como objetivo **automatizar o processo de ingestão e visualiza�
 | **Looker Studio**           | Painéis e visualização             |
 | **Jupyter Notebook**        | Desenvolvimento                    |
 
-## Exemplos
----
-
-### Envio de DataFrames para BigQuery
+## Envio de DataFrames para BigQuery
 
 ```python
 def upload_to_bigquery_from_excel(sheet_name: str, table_name: str, schema: list):
