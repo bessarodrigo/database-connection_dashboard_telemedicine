@@ -5,7 +5,8 @@ Projeto que tem como objetivo **automatizar o processo de ingestão e visualiza�
 
 ## Arquitetura 
 
-### Fonte dos Dados: planilhas Excel com múltiplas abas
+### Fonte dos Dados
+- planilhas Excel com múltiplas abas
 
 ### ETL com Python
 - Leitura e tratamento dos dados usando pandas
